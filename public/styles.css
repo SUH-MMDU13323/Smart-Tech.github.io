@@ -1,0 +1,123 @@
+* {
+padding: 0;
+margin: 0;
+
+}
+body{
+    background-image:url(https://www.eventmarketer.com/wp-content/uploads/2018/01/event-safety_data_digital_stock.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    position: relative;
+   
+}
+.Box{
+    width: 100%;
+    background-color:blueviolet;
+    position: sticky relative ;
+    text-align: center;
+}
+.lbox{
+    display: inline-block;
+    margin: auto;
+    padding: 25px;
+    font-size: large;
+    outline: none;
+    font-size: 25px;
+   
+}
+.inbox{
+    color: antiquewhite;
+
+  }
+  .btn{
+   background-color: white;
+   color: black;
+   margin: 4px 60px;
+   font-size: 1.3rem;
+   border-radius: 10px;
+   cursor: pointer;
+   padding:4px 16px;
+   border: 2px solid white;
+  }
+  
+
+   .head{
+    text-align: center;
+    color: black;
+    font-size:100px;
+   }
+   p.head{
+    margin-top: 100px;
+   }
+ .boxes{
+    display: inline-block;
+ }
+ .text{
+       text-align: center;
+       color: black;
+       font-size: xxx-large;
+ }
+ .p1{
+   height : 100px;
+   display: block;
+   margin: auto;
+ }
+ .p2{
+   height : 100px;
+   display: block;
+   margin: auto;
+ }
+ .p3{
+   height : 100px;
+   display: block;
+   margin: auto;
+ }
+ .box1{
+    height: 200px;
+    width: 250px;
+    background-color: blueviolet;
+    display: inline-block;
+    margin: 50px;
+
+ }
+ .box2{
+    height: 200px;
+    width: 250px;
+    background-color:blueviolet;
+    display: inline-block;
+    margin: 50px;
+ }
+ .box3{
+    height: 200px;
+    width: 250px;
+    background-color: blueviolet;
+    display: inline-block;
+    margin: 50px;
+ }
+ .box4{
+    height: 200px;
+    width: 250px;
+    background-color: blueviolet;
+    display: inline-block;
+    margin: 50px;
+ }
+ .l{
+  height:500px;
+  width: 100%;
+  position: relative;
+  margin: 100px;
+ }
+ .l1{
+ 
+  height: 200px;
+  width:30%;
+  float: left;
+ }
+ .gi{
+   color: black;
+ }
+ 
+ 
+  
